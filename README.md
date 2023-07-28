@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Finished training in Yandex Practicum (Data Scientist)
+- :books: Finished training in Yandex Practicum (Data Scientist)
 - 📫 How to reach me: https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg
 - :computer: I am actively looking for a job
 -->
