@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - :books: Finished training in Yandex Practicum (Data Scientist)
-- 📫 How to reach me: https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg
+- 📫 How to reach me: ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 - :computer: I am actively looking for a job
 -->
-![Ansible Collection](https://img.shields.io/ansible/collection/:collectionId)
+
