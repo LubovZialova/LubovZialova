@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lubov_ds)
   
 - :computer: I am actively looking for a job
-  
--->
+
 
